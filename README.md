@@ -46,10 +46,10 @@ AI yang bantu rekomendasikan paket data berdasarkan kebutuhan user.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ridhosyahbanaputra&show_icons=true&theme=algolia&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridhosyahbanaputra&layout=compact&theme=algolia" />
-</p>
+<a href="https://github.com/ridhosyahbanaputra"> 
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ridhosyahbanaputra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ridhosyahbanaputra&layout=compact&layout=compact&theme=algolia"/> 
+</a>
 
 ---
 
