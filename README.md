@@ -46,8 +46,10 @@ AI yang bantu rekomendasikan paket data berdasarkan kebutuhan user.
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ridhosyahbanaputra&show_icons=true&theme=algolia" />
-  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ridhosyahbanaputra&layout=compact&theme=algolia" />
+  <a href="https://github.com/ridhosyahbanaputra"> 
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ridhosyahbanaputra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ridhosyahbanaputra&layout=compact&layout=compact&theme=algolia"/> 
+  </a>
 </p>
 
 ---
@@ -55,7 +57,9 @@ AI yang bantu rekomendasikan paket data berdasarkan kebutuhan user.
 ## 🏆 GitHub Achievement Badges
 
 <p align="center">
+  <a href="https://github.com/ridhosyahbanaputra"> 
   <img src="https://github-profile-trophy.vercel.app/?username=ridhosyahbanaputra&theme=algolia&no-frame=true&row=1&column=6" />
+  </a>
 </p>
 
 ---
@@ -63,7 +67,9 @@ AI yang bantu rekomendasikan paket data berdasarkan kebutuhan user.
 ## 🐍 Contribution Activity
 
 <p align="center">
+  <a href="https://github.com/ridhosyahbanaputra"> 
   <img src="https://github.com/ridhosyahbanaputra/ridhosyahbanaputra/blob/output/github-contribution-grid-snake.svg" />
+  </a>
 </p>
 
 ---
